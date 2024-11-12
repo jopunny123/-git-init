@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.main-header{
+    background-color: blue;
+    color:white;
+   
+}
+.h2{
+    color:cadetblue;
+    margin-top: 10px;
+    
+}
+.para1{
+    line-height: 30px;
+    font-weight: 300;
+    margin-top:10px;
+    margin-left: 20px;
+    margin-right: 25px;
+}
+.h1{
+
+
+
+    background:linear-gradient(90deg, red , rgb(52, 52, 199));
+    color:white;
+    text-align: center;
+    text-transform: uppercase;
+}
+.first{
+    display: flex;
+    padding-right: 10px;
+}
+.second{
+    margin-top: 10px;
+}
+.h3{
+    color:cadetblue;
+    text-transform: capitalize;
+}
+
+
+.image3{
+    width: 300px;
+    border-radius: 50%;
+}
+.h4{
+    color:cadetblue;
+    margin-top: 10px;
+}
+.para3{
+    line-height: 30px;
+    font-weight: 400;
+}
+.more{
+    cursor: pointer;
+}
